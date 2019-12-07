@@ -1,2 +1,2 @@
 # Quantum Computing Mitigation-Reassignment Protocol
-<img src="QCMR_logo.png" width="400" />
+<img src="QCMR.png" width="800" />
